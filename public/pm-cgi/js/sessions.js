@@ -1,4 +1,4 @@
-var addproto = url =>{
+var addproto = url => {
 		if (!/^(?:f|ht)tps?\:\/\//.test(url))url = 'https://' + url;
 		return url;
 	},

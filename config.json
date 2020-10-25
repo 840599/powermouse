@@ -5,12 +5,9 @@
 		"ssl": false
 	},
 	"proxy": {
+		"ban_bots": false,
 		"private_ips": false,
-		"session_timeout": 3600000,
-		"vpn": {
-			"enabled": false,
-			"socks5": "104.238.97.215:16601"
-		}
+		"session_timeout": 3600000
 	},
 	"workers": {
 		"enabled": true,

@@ -5,29 +5,25 @@
 	"main": "app.js",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/titaniumnetwork-dev/powermouse.git"
+		"url": "https://github.com/vibedivide/powermouse.git"
 	},
 	"keywords": [],
 	"author": "Divide",
 	"license": "GPL-3.0",
 	"bugs": {
-		"url": "https://github.com/titaniumnetwork-dev/powermouse/issues"
+		"url": "https://github.com/vibedivide/powermouse/issues"
 	},
 	"scripts": {
 		"start": "node app.js"
 	},
-	"homepage": "https://titaniumnetwork.org/",
+	"homepage": "https://ldm.sys32.dev/",
 	"dependencies": {
 		"compression": "^1.7.4",
-		"cookie-parser": "^1.4.5",
 		"express": "^4.17.1",
 		"html-minifier": "^4.0.0",
-		"imagemin-mozjpeg": "^9.0.0",
 		"imagemin-webp": "^6.0.0",
 		"mime": "^2.4.6",
-		"node-fetch": "^2.6.0",
-		"serverline": "^1.5.0",
-		"socks-proxy-agent": "^5.0.0",
+		"node-fetch": "^2.6.1",
 		"ws": "^7.3.1"
 	}
 }
